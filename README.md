@@ -24,7 +24,7 @@ Junior Full-Stack Developer moving from technical support into product engineeri
   Vue.js · Java · Spring Boot  
   [Website](https://home-service-app-client.vercel.app/) · [GitHub (FE)](https://github.com/Teerapat-M/home-service-app-client) · [GitHub (BE)](https://github.com/Teerapat-M/home-service-app-server)
 - **Personal Blog** — Article list, post detail, search, and admin editing.
-  [Website](https://my-profile-eight-flax.vercel.app) · [GitHub](https://github.com/Teerapat-M/my-profile)
+  [Website](https://my-profile-eight-flax.vercel.app) · [GitHub (FE)](https://github.com/Teerapat-M/my-profile) · [GitHub (BE)](https://github.com/Teerapat-M/backend-express-server)
 
 ## Earlier work
 

@@ -25,6 +25,11 @@ Junior Full-Stack Developer moving from technical support into product engineeri
 - **Personal Blog** — Article list, post detail, search, and admin editing.
   [Website](https://my-profile-eight-flax.vercel.app) · [GitHub](https://github.com/Teerapat-M/my-profile)
 
+## Earlier work
+
+Games, VR, and university projects (Unity, 3D, internship work):  
+[Wix portfolio](https://wolfman13bell.wixsite.com/bell-teerapat)  
+
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/teerapat-maleewong-795264293/) · [GitHub](https://github.com/Teerapat-M) · wolfman13bell@gmail.com

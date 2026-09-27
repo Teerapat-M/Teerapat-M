@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Teerapat 👋
 
-<!--
-**Teerapat-M/Teerapat-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Full-Stack Developer moving from technical support into product engineering. I build clear web apps with React and Next.js, from the first screen to booking and payment.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Now:** Looking for a junior full-stack or frontend role.
+- **Background:** Games and Interactive Media, technical support at Inventech, and a VR training internship at YVR Studio.
+- **Bootcamp:** Full-Stack Developer at TechUp, while still working full-time.
+
+## Tech Stack
+
+- **Languages:** JavaScript, TypeScript, Java
+- **Frontend:** HTML, CSS, Tailwind CSS, React, Next.js, Vue.js
+- **Backend & Data:** Node.js, Express.js, Spring Boot, PostgreSQL, MongoDB, Supabase
+- **Tools:** Git, GitHub, Stripe
+
+## Featured Projects
+
+- **Pet Sitter** — Marketplace for owners, sitters, and admins: search, booking, chat, and payment.
+  Next.js · Tailwind CSS · Supabase · Stripe  
+  [Website](https://pet-sitter-app-client-khaki.vercel.app/) · [GitHub (FE)](https://github.com/Teerapat-M/pet-sitter-app-client) · [GitHub (BE)](https://github.com/Teerapat-M/pet-sitter-app-server)
+- **Home Service** — Home-repair booking with catalog, checkout, technician jobs, and admin.
+  Vue.js · Java · Spring Boot
+- **Personal Blog** — Article list, post detail, search, and admin editing.
+  [Website](https://my-profile-eight-flax.vercel.app) · [GitHub](https://github.com/Teerapat-M/my-profile)
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/teerapat-maleewong-795264293/) · [GitHub](https://github.com/Teerapat-M) · wolfman13bell@gmail.com
